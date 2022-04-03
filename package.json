@@ -1,5 +1,5 @@
 {
-  "name": "create-isave-template",
+  "name": "@ignasave/cra-template-isave",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:ignasave/create-isave-template.git",
